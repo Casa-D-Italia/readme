@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario Echeverria</h1>
 <h3 align="center">small self-taught developer learning about backend and react</h3>
 
-- 🔭 I’m currently working on [SGPC](https://sgpcmarioecheverria.herokuapp.com/dashboard)
+- 🔭 I’m currently working on [SGPC](https://fathomless-lake-31508.herokuapp.com/dashboard)
 
 - 🌱 I’m currently learning **nodejs, express, react**
 
