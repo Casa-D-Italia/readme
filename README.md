@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **nodejs, express, react**
 
-- 📫 How to reach me **lcdoecheverria**
+- 📫 How to reach me **lcdoecheverria@gmail.com**
 
 Other Projects 
 
