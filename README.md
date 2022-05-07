@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mario Echeverria</h1>
 <h3 align="center">small self-taught developer learning about backend and react</h3>
 
-- 🔭 I’m currently working on [SGPC](https://sgpcmarioecheverria.herokuapp.com/auth/singup)
+- 🔭 I’m currently working on [SGPC](https://sgpcmarioecheverria.herokuapp.com/dashboard)
 
 - 🌱 I’m currently learning **nodejs, express, react**
 
 - 📫 How to reach me **lcdoecheverria**
+
+Other Projects 
+
+[Azumarinc](https://azumarinc.com)
+[Dmarka](https://dmarka.net)
+[Hobby House](https://hobby=house.net)
+[Insupla](https://insupla.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
