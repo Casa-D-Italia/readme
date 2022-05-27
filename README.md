@@ -12,7 +12,7 @@ Other Projects
 - [Azumarinc](https://azumarinc.com)
 - [MEagency](https://fervent-lumiere-d342f5.netlify.app/)
 - [Dmarka](https://dmarka.net)
-- [Hobby House](https://hobby=house.net)
+- [Hobby House](https://hobby-house.net)
 - [Insupla](https://insupla.com)
 
 <h3 align="left">Connect with me:</h3>
