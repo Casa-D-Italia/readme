@@ -2,7 +2,7 @@
 <h3 align="center">small self-taught developer learning about backend and react</h3>
 
 - 🔭 I’m currently working on [SGPC](https://fathomless-lake-31508.herokuapp.com/dashboard)
-im migrating this webapp to React with Firebase 9 deployed on Vercel. [SGPC REACT VERSION](covidtest-react-firebase9.vercel.app)
+im migrating this webapp to React with Firebase 9 deployed on Vercel. [SGPC REACT VERSION](https://covidtest-react-firebase9.vercel.app)
 
 - 🌱 I’m currently learning **nodejs, express, react**
 
